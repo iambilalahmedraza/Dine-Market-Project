@@ -95,7 +95,7 @@ const Footer = () => {
         </p>
         <p className="font-normal text-base text-gray-700 sm:py-4 sm:col-span-2 lg:col-span-1 ">
           Code by:
-          <span className="font-bold"> M Mughees Javed</span>
+          <span className="font-bold"> Bilal Ahmed Raza </span>
         </p>
       </div>
     </footer>
